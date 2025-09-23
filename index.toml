@@ -5,8 +5,16 @@ file = "mods/AdvancedPeripherals-1.20.1-0.7.44r.jar"
 hash = "74e46af711325fb3e2003753cf58045dbbf3f3ce87195369a32fc786f238a423"
 
 [[files]]
+file = "mods/CobbleForDays-1.8.0(1).jar"
+hash = "9e7244ff134b8059fb481280505ba9d200c6d1b6e21984a3963e5dfc5794ee00"
+
+[[files]]
 file = "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
 hash = "dedd857b1ee356f002471ec97a2174c7d193d6d1aede60782d0bbe2c241b2a7f"
+
+[[files]]
+file = "mods/Jade-VS-forge-1.20.1-1.2.2.jar"
+hash = "76517d07558c7062a1291ccc2e8a1f8da9d438cae02ddc4bb6e43f43f933b041"
 
 [[files]]
 file = "mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar"
@@ -87,9 +95,12 @@ hash = "7b4c85eba70a03330a81aa40056840f44b84d33bcc97d95d6bfd014130c05e0e"
 metafile = true
 
 [[files]]
-file = "mods/cc-link.pw.toml"
-hash = "93cb1178b451382b31c7756f2e403eddbc878d83a0c9bfa30747665a926496cc"
-metafile = true
+file = "mods/cc_vs-1.20.1-forge-0.3.0.jar"
+hash = "87fe1948c4a7835c14748cd2712f87ec71e87cec36381c361536207c89d9b55b"
+
+[[files]]
+file = "mods/cclink-6.0.2-beta1-1.20.1.jar"
+hash = "aec3b36145a46bac7013ea39f4cd76c8187e82ccfc3a7e6671b845c4181795f4"
 
 [[files]]
 file = "mods/ccshenanigans-1.0.jar"
@@ -199,6 +210,10 @@ file = "mods/create_connected-0.9.4-mc1.20.1-all.jar"
 hash = "74550c7f35c87c064ad0d94dced6b22e18d23ae15b8d3c8eb5afe4d4023e4114"
 
 [[files]]
+file = "mods/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar"
+hash = "db605fb4f4f760fbca3cb25cf36289a3bf61f808daf08b7d514b9a1d7a89ae31"
+
+[[files]]
 file = "mods/create_eureka-1.1.0.r-forge-1.20.1.jar"
 hash = "14f351b474b1df8fb51c5eb46a5abcfd2699b6ea0e6af0d5932d809c2b1c7a38"
 
@@ -209,6 +224,10 @@ hash = "ec6791d3770a30a13a4eea7685839db9cc6e771a8a111a2405588c388c07c658"
 [[files]]
 file = "mods/createaddition-1.20.1-1.2.5.jar"
 hash = "e6277dc5f058cccd55ed4aa802a00faf44fc5e8d0d9ecf57928c4a412123aa92"
+
+[[files]]
+file = "mods/createdeco-2.0.2-1.20.1-forge.jar"
+hash = "f2e6e196603c13b23063a376b09aac74c7f76348cde45de5256bb68f2e9566c1"
 
 [[files]]
 file = "mods/createnuclear.pw.toml"
@@ -243,6 +262,10 @@ metafile = true
 file = "mods/dynamic-crosshair.pw.toml"
 hash = "e60152d0b27ba0ba0c8efa02c25944537934d3e118580ad4a8fa5c43144f2ab5"
 metafile = true
+
+[[files]]
+file = "mods/effortless-1.20.1-3.4.0.jar"
+hash = "24cbbffe480eb65126af382e1e09d79fdf51862f7f71e27dcdc5e1ac68fd194c"
 
 [[files]]
 file = "mods/embeddium.pw.toml"
@@ -300,6 +323,10 @@ hash = "c442358994c36d3dc41761c52c96afa145333afd0d63d7cc4c8bff8c77d56601"
 metafile = true
 
 [[files]]
+file = "mods/functionalstorage-1.20.1-1.2.13.jar"
+hash = "0d458bcd5c23e53b5479acdb2e9ac2f762f2a1f3b14951bf3cc4cafeabefb687"
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "092df735776961b4081112ace43246dd6c8bdc2dfd0a7bab27531747038611cc"
 metafile = true
@@ -342,6 +369,10 @@ metafile = true
 file = "mods/insanelib.pw.toml"
 hash = "8c04c1d03f3d5af44e1ba30663b21c64fd29fd4d9a5ae93afb9ef87f9a3ed27d"
 metafile = true
+
+[[files]]
+file = "mods/ironchest-1.20.1-14.4.4.jar"
+hash = "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f"
 
 [[files]]
 file = "mods/item-highlighter.pw.toml"
@@ -409,6 +440,10 @@ hash = "f225a451297ed560b492b196dd2483e973998605b859b8b13c082ac97bf79e99"
 metafile = true
 
 [[files]]
+file = "mods/lightmanscurrency-1.20.1-2.2.6.4.jar"
+hash = "e0851ec1214aae3f781cac3f42ec37fb30061b668bd97f9dae465eb2a578c161"
+
+[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "0322ab82ff88dc96090b00e8b3ab5aca997170aafa0405ef4883a8198e890197"
 metafile = true
@@ -430,6 +465,10 @@ hash = "878d7690f373219db5c7574e7e0fa661b068571fa03674e7ece9c7cc38b9dd3b"
 file = "mods/mantle.pw.toml"
 hash = "2e11b78a3553c194f7c0ffe464f63fc0ec372c90f535be3a1c8e5a6ac00e101e"
 metafile = true
+
+[[files]]
+file = "mods/markdown_manual-MC1.20.1-forge-1.2.5+c3f0b88.jar"
+hash = "13711f030faa4a6951623c5dc487720cae6b0ed3f28653fe7c704c274d56af1b"
 
 [[files]]
 file = "mods/maxstuff.pw.toml"
@@ -469,6 +508,10 @@ metafile = true
 [[files]]
 file = "mods/notenoughanimations-forge-1.10.2-mc1.20.1.jar"
 hash = "29d7567b92d8cf5f9ca06e3a901fb149318d0fca82097e5f0f5e568df9a2c120"
+
+[[files]]
+file = "mods/oc2r-1.20.1-forge-2.2.6-all.jar"
+hash = "6487ce20841902ffbca7cebb28c687a6043a4f97f2932890cedc1b927e49c4c8"
 
 [[files]]
 file = "mods/oculus.pw.toml"
@@ -537,6 +580,14 @@ metafile = true
 file = "mods/ritchies-projectile-library.pw.toml"
 hash = "b7cee7429f7c3f21d7c41b6760b0fd4a5d821e7bace1602972d99ce01eba7b91"
 metafile = true
+
+[[files]]
+file = "mods/s_a_b-1.4.3.jar"
+hash = "36f06b91693a772c6d49874085c6a41aeca9a56e8561eb6cd279e2cc62ab6e6f"
+
+[[files]]
+file = "mods/sandfilter-1.0.2.jar"
+hash = "0b3d0b48aafa54aa17c747bb2db546551e647b96325feeb1a6a5e286bb9f37ba"
 
 [[files]]
 file = "mods/searchables.pw.toml"
@@ -615,6 +666,14 @@ metafile = true
 file = "mods/tinkers-construct.pw.toml"
 hash = "b6c948d0bd60b2dc11bb26379cd7643e9206f729f19b3fff864b6cb15d3996ed"
 metafile = true
+
+[[files]]
+file = "mods/titanium-1.20.1-3.8.32.jar"
+hash = "75461182a955b149104d760db908af832da5e1ae1fbabf09d23cd40701d15f02"
+
+[[files]]
+file = "mods/tournament-1.20.1-forge-1.1.0_beta-5.3+af35b3821f.jar"
+hash = "d2bb51322abed1a97262cf639edd831e524b50b2089d1805f80307cfa113d413"
 
 [[files]]
 file = "mods/trackwork-1.20.1-1.1.1b.jar"
