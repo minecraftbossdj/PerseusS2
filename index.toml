@@ -13,6 +13,10 @@ file = "mods/CobbleForDays-1.8.0(1).jar"
 hash = "9e7244ff134b8059fb481280505ba9d200c6d1b6e21984a3963e5dfc5794ee00"
 
 [[files]]
+file = "mods/ColdSweat-2.4-b02d.jar"
+hash = "89e95c23e3573c6eedfbaa760a8fd28cce9e09f6c11072a6411a64dea4d17cda"
+
+[[files]]
 file = "mods/Explosion-Overhaul-0.1.7.7-a Forge-1.20.1.jar"
 hash = "83d693a75fda959fe79400676402d4a6dff0951454748f16e386530464c60cff"
 
@@ -136,11 +140,6 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "a42ad3bf7bab4fdf9d2312695788414ee6358f3dd71ce7bad959c903601b14d5"
-metafile = true
-
-[[files]]
-file = "mods/cold-sweat.pw.toml"
-hash = "216e8f54a9b2ab28f2b9faac725e8abc5a021b6524c5b98d64b6a2951d5247a3"
 metafile = true
 
 [[files]]
