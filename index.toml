@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-client.toml"
+hash = "09ee4e79bef5f715b878720111eb9e1cc18521a182fd811ba0469bbe7674b5d7"
+
+[[files]]
 file = "mods/AdvancedPeripherals-1.20.1-0.7.44r.jar"
 hash = "74e46af711325fb3e2003753cf58045dbbf3f3ce87195369a32fc786f238a423"
 
@@ -11,10 +15,6 @@ hash = "3eb085b83d201d6ba3a9bc3b84fed70b36a252f7cbff6611af7648b2491a79f6"
 [[files]]
 file = "mods/CobbleForDays-1.8.0(1).jar"
 hash = "9e7244ff134b8059fb481280505ba9d200c6d1b6e21984a3963e5dfc5794ee00"
-
-[[files]]
-file = "mods/ColdSweat-2.4-b02d.jar"
-hash = "89e95c23e3573c6eedfbaa760a8fd28cce9e09f6c11072a6411a64dea4d17cda"
 
 [[files]]
 file = "mods/Explosion-Overhaul-0.1.7.7-a Forge-1.20.1.jar"
@@ -107,17 +107,23 @@ hash = "7b4c85eba70a03330a81aa40056840f44b84d33bcc97d95d6bfd014130c05e0e"
 metafile = true
 
 [[files]]
+file = "mods/cbc-more-shells.pw.toml"
+hash = "ac3d121d41cd2ebef208421d4adc90d7b19720c7395ddaee99536784a2e4fd53"
+metafile = true
+
+[[files]]
 file = "mods/cbcmodernwarfare-0.0.6c+mc.1.20.1-forge.jar"
 hash = "7e3119dc9014f7dbf3bc291cae05b8c9fa897e36502fd8ceefb3a9be47dfab58"
+
+[[files]]
+file = "mods/cc-link.pw.toml"
+hash = "d9ee2811355edc39ec1cedb7b1967f1aeb83670e0267161ddffecd948eb3124c"
+metafile = true
 
 [[files]]
 file = "mods/cc-vs.pw.toml"
 hash = "4ed9f836bfc65be0b51882d3f5c8028900e777eaf0cdee1ad960c10f4018c851"
 metafile = true
-
-[[files]]
-file = "mods/cclink-6.0.2-beta1-1.20.1.jar"
-hash = "aec3b36145a46bac7013ea39f4cd76c8187e82ccfc3a7e6671b845c4181795f4"
 
 [[files]]
 file = "mods/ccshenanigans-1.0.jar"
@@ -168,6 +174,11 @@ hash = "ff0fa13b300d526ef0ad5067b923766cc3d7680bff7c31480670e6b50ca876fa"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons-advanced-technologies.pw.toml"
+hash = "66aef5f008c737f7a79ce131c1c4ebc52d1376c48828411a9bbb71c75b4f9c7d"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "23bb6a77fc7bdc08ec49c2dd463a0bde5f2da7fd1aa471a2879398ae707310af"
 metafile = true
@@ -180,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/create-clockwork.pw.toml"
 hash = "5e9f55362b78cb750f69010f196d0c7169dd20bafe053c30cb2f8497bd70bd8b"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "23dc3517bb479f4a7275bedc75ea45362aef0ff1b240d8cd0fde2fd152032cdf"
 metafile = true
 
 [[files]]
@@ -221,10 +237,6 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "f7af3613a8729d82920d88edc8e02e6cc91d9ea3173d73bb66f394ab8c8699db"
 metafile = true
-
-[[files]]
-file = "mods/create_cold_sweat-1.1.1.7.jar"
-hash = "2be8bcdf63fa5a70fbe15a23e7a143d69ed908efff635bd01937467813475633"
 
 [[files]]
 file = "mods/create_connected-0.9.4-mc1.20.1-all.jar"
@@ -715,16 +727,6 @@ file = "mods/titanium-1.20.1-3.8.32.jar"
 hash = "75461182a955b149104d760db908af832da5e1ae1fbabf09d23cd40701d15f02"
 
 [[files]]
-file = "mods/tough-as-nails.pw.toml"
-hash = "e8e2c72258f696c95099d8ecfe3cca73a96c0cbc12709c0b5877ad9d712eeae6"
-metafile = true
-
-[[files]]
-file = "mods/toughasnails-plus.pw.toml"
-hash = "310d983268602e7e51f57673821a4aa7947c2a9c5c9ef9f8963b1f8783ba52d7"
-metafile = true
-
-[[files]]
 file = "mods/tournament-1.20.1-forge-1.1.0_beta-5.3+af35b3821f.jar"
 hash = "d2bb51322abed1a97262cf639edd831e524b50b2089d1805f80307cfa113d413"
 
@@ -760,6 +762,11 @@ file = "mods/vs_addition-1.20.1-0.0.10+aa958d43e6.jar"
 hash = "e6515939450a3faa3dd25dd698492bf4153f0878af99c3eb42e58fa722299bae"
 
 [[files]]
+file = "mods/vstuff.pw.toml"
+hash = "649e4674972f523c3d19158611f14ecdced000249211c46ef91730c78bf65a1a"
+metafile = true
+
+[[files]]
 file = "mods/vulcanocraft-cc-tweaked.pw.toml"
 hash = "08e453f8651ef9feb8fd9d18ce2c7bafa4c3b40340f63f4a102e05e22bca25fa"
 metafile = true
@@ -793,3 +800,7 @@ metafile = true
 file = "mods/zombie-awareness.pw.toml"
 hash = "eb4b8a201a812238ff5bd1f814b70d5bac1de9226fc80e82064156b6c294c45f"
 metafile = true
+
+[[files]]
+file = "tacz/ARIPS_ver.1.3.0.zip"
+hash = "5bc39b5709e405e277e3488fb2c9bb34f79061b5c4206b6df2fd62bd95b129f3"
