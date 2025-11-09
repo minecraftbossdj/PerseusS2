@@ -379,11 +379,6 @@ hash = "d4794abf3b433cf5fbf37527bc53ff8b17c8b9d61566454116c9ba5605c05fb2"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-ai.pw.toml"
-hash = "8d024905d78f09119317b282aa6041ffd2ba92509625ba3a154c6c801d23e192"
-metafile = true
-
-[[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "fb1d16ac41c3a33147d8fc5a64300f98b16427e3a9c0cfb52d9ffa43a00e2d20"
 metafile = true
@@ -464,11 +459,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-weathering-forge.pw.toml"
 hash = "7a2b9d552c340099bf8db5529d1e935f31dddd2b7616560a2c126a13d16cf5d8"
-metafile = true
-
-[[files]]
-file = "mods/insanelib.pw.toml"
-hash = "327e4f6af4f1a35b71dffcc5d6e5a99e368b2ac2c32d2029b8abc2c51816937c"
 metafile = true
 
 [[files]]
@@ -859,11 +849,6 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "444ce59c0f549467742d860e30ed9efceae37a6b3f026686aba4fadac6bd336e"
-metafile = true
-
-[[files]]
-file = "mods/zombie-awareness.pw.toml"
-hash = "6b669967b01c01235ebefe07fae31e94297fe49c533bd106e4da43dd88f45f39"
 metafile = true
 
 [[files]]
