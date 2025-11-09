@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/VdZ1CoT5/versions/aAzEaE8p/CarryOnVSCompat-Forge-1.20.1-1.0.0.jar"
-hash-format = "sha512"
-hash = "c3f22c3a5c36158662589f15e22ed4723d912b2d9597773ab33ef24a2d8de4a9210566aaeaae807a164fffb3b9780faa3b9ac55f63a991973c50043fc47eac9a"
+hash-format = "sha256"
+hash = "de1bba80a237490d8a9347281404c2d2cf9a35dc2ad5f0a79570fa76643a290f"
 
 [update]
 [update.modrinth]

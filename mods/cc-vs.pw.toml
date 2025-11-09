@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/bvgy8HrZ/versions/UcdTf0sM/cc_vs-1.20.1-forge-0.3.0.jar"
-hash-format = "sha512"
-hash = "78a1e5b12b174b6c1de5fed122d35a224fd0347ad1a5c96087ba0fd05cd4e30b6f3406c6589f11ada5c6215af856bf657382e4609622fa8a2805d78a85915ec3"
+hash-format = "sha256"
+hash = "87fe1948c4a7835c14748cd2712f87ec71e87cec36381c361536207c89d9b55b"
 
 [update]
 [update.modrinth]
